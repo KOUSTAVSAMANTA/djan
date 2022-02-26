@@ -25,7 +25,7 @@ SECRET_KEY = '(mvg_p_cls=)+exstu$1%*l-n3sxtleve0&uo(2(())z8&_iy5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','https://kstutorials.herokuapp.com/']
 
 # TINYMCE_JS_URL = 'http://debug.example.org/tiny_mce/tiny_mce_src.js'
 TINYMCE_DEFAULT_CONFIG = {
